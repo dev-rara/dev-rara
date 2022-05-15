@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning BackEnd Web Development
+- 💻 I use daily Java, sql
+
 <!--
 **dev-rara/dev-rara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
