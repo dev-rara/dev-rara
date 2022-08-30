@@ -19,10 +19,15 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 </p>
 
+<br>
+<br>
+
+
 <h3 align="center">🚀About Me</h3>
+<p align="center">
 <a href="https://velog.io/@rara_kim" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@rara_kim"/></a>
 <a href="https://www.instagram.com/rara_kk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/rara_kk"/></a>
 <a href="kksr1219@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=kksr1219@gmail.com"/></a>
-
+</p>
 <br>
 <br>
