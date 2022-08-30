@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=FCB6D0&height=300&section=header&text=SoRa_Kim&fontsize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=D0A9F5&height=300&section=header&text=SoRa_Kim&fontsize=90)
 
 <!--<h3 align="center"> Hi there👋</h3>-->
 <!--I'm Sora Kim, a growing developer.-->
@@ -13,7 +13,7 @@
 Techs that I've used at least once.
  <br>
  <br>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> 
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"> 
@@ -31,7 +31,7 @@ Techs that I've used at least once.
 <p align="center">
 <a href="https://velog.io/@rara_kim" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@rara_kim"/></a>
 <a href="https://www.instagram.com/rara_kk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/rara_kk"/></a>
-<a href="kksr1219@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=kksr1219@gmail.com"/></a>
+<a href="mailto:kksr1219@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:kksr1219@gmail.com"/></a>
 </p>
 <br>
-<br>
+
