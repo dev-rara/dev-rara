@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=F5A9F2&height=300&section=header&text=SoRa_Kim&fontsize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FCB6D0&height=300&section=header&text=SoRa_Kim&fontsize=90)
 
 <!--<h3 align="center"> Hi there👋</h3>-->
 <!--I'm Sora Kim, a growing developer.-->
