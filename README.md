@@ -2,10 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FCB6D0&height=300&section=header&text=SoRa_Kim&fontsize=90)
 
-<!--<h3 align="center"> Hi there👋</h3>-->
-<!--I'm Sora Kim, a growing developer.-->
-<!--I want to be a person who -->
-<!--D0A9F5-->
 
 <h3 align="center">🛠 Technology Stack 🛠</h3>
 <p align="center">
