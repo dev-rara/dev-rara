@@ -30,7 +30,6 @@ Techs that I've used at least once.
 
 <br>
 
-
 <h3 align="center">🚀About Me</h3>
 <p align="center">
 <a href="https://velog.io/@rara_kim" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@rara_kim"/></a>
